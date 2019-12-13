@@ -1,0 +1,23 @@
+{
+  "name": "next-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.26",
+    "@fortawesome/free-brands-svg-icons": "^5.12.0",
+    "@fortawesome/free-solid-svg-icons": "^5.12.0",
+    "@fortawesome/react-fontawesome": "^0.1.8",
+    "contentful": "^7.10.0",
+    "dotenv": "^8.2.0",
+    "next": "9.1.5",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-particles-js": "^2.7.0"
+  },
+  "devDependencies": {}
+}
